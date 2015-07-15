@@ -4,3 +4,4 @@ bin
 *.log
 packages
 obj
+*.suo

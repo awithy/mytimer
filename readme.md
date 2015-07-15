@@ -3,7 +3,7 @@ MyTimer
 
 by Adrian Withy
 
-A dirt-simple timer that does what I need.
+A dirt-simple timer that does what I need.  Not intended to be any sort of example of quality development ;)
 
 
 **Commands:**
